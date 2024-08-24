@@ -1,0 +1,9 @@
+scrapy
+zyte-api
+fastapi
+uvicorn[standard]
+clerk
+sentry-sdk
+requests
+pydantic
+beautifulsoup4
